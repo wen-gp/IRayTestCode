@@ -8,7 +8,8 @@ project(Tbdp)
 set(CMAKE_CXX_STANDARD 14)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_BUILD_TYPE Debug)
-set(PLATFORM_NAME "x64")
+
+set(PLATFORM_NAME "aarch64-linux-gnu")
 message(STATUS "Platform name is: ${PLATFORM_NAME}")
 
 message(STATUS "CMAKE_BINARY_DIR：${CMAKE_BINARY_DIR}")

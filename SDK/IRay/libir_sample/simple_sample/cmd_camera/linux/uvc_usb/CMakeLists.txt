@@ -1,7 +1,6 @@
 PROJECT(cmd_camera_linux)
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 
-set(PLATFORM_NAME "x64")
 message(STATUS "Platform name is: ${PLATFORM_NAME}")
 
 set(EXTERN_LIB extern_lib.cmake)
