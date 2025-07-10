@@ -1,0 +1,5 @@
+/home/wgp/桌面/TbdpApplication/build/CMakeFiles/rebuild_cache.dir
+/home/wgp/桌面/TbdpApplication/build/CMakeFiles/edit_cache.dir
+/home/wgp/桌面/TbdpApplication/build/SDK/IRay/libir_sample/simple_sample/cmd_camera/linux/uvc_usb/CMakeFiles/rebuild_cache.dir
+/home/wgp/桌面/TbdpApplication/build/SDK/IRay/libir_sample/simple_sample/cmd_camera/linux/uvc_usb/CMakeFiles/sample_cmd_camera_linux.dir
+/home/wgp/桌面/TbdpApplication/build/SDK/IRay/libir_sample/simple_sample/cmd_camera/linux/uvc_usb/CMakeFiles/edit_cache.dir
